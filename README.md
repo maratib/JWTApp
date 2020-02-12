@@ -1,4 +1,4 @@
-# Laravel 6 JWT and IDE-HELPER setup
+# Laravel 6 JWT and IDE Helper setup
 
 This is an initial setup for Laravel 6 project including JWT and IDE-Helper packages. This repository is maintained for a quick startup with JWT and IDE-Helper.
 
