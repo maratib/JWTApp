@@ -25,6 +25,7 @@ _*Useful extensions for Laravel*_
 
 For further readings :-
 
+
 [IDE Helper Setup](./README/IDE-HELPER.md)
 
 [JWT Setup](./README/JWT.md)
