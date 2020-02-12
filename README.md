@@ -23,7 +23,7 @@ _*Useful extensions for Laravel*_
 [Laravel Assist](https://marketplace.visualstudio.com/items?itemName=tiansin.vscode-laravel-assist)
 
 
-For further readings :-
+For further readings 123:-
 
 
 [IDE Helper Setup](./README/IDE-HELPER.md)
