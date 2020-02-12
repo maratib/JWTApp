@@ -12,6 +12,17 @@ php artisan jwt:secret
 ```
 
 
+### Tips for VSCode
+
+_*Useful extensions for Laravel*_
+
+[Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack)
+
+[Laravel goto Controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller)
+
+[Laravel Assist](https://marketplace.visualstudio.com/items?itemName=tiansin.vscode-laravel-assist)
+
+
 For further readings :-
 
 [IDE Helper Setup](./README/IDE-HELPER.md)
