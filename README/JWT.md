@@ -1,8 +1,5 @@
 # Setting JWT in Laravel 6
 ```bash
-# Create new laravel app
-laravel new JWTApp
-
 #install JWT authentication package
 composer require tymon/jwt-auth:dev-develop --prefer-source
 
@@ -14,8 +11,8 @@ php artisan vendor:publish
 
 #Generate JWT auth. keys
 php artisan jwt:secret
-#this is generate
-#jwt-auth secret [MkTZdaDlOZ44RPAxWSl3ZVJuSYqZQkIAMBWhLRtaPftXrP5k2lHGq4QeiG11Q92S] set successfully.
+#the above command generates
+#jwt-auth secret [XyzdaDlOZ44RPAxWSl3ZVJuSYqZQkIAMBWhLRtaPftXrP5k2lHGq4QeiG11Q92S] set successfully.
 
 ```
 
